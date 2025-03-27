@@ -3,8 +3,8 @@
 -- Add any additional options here
 --
 -- -- This file is automatically loaded by plugins.core
-vim.g.mapleader = " "
-vim.g.maplocalleader = "\\"
+vim.g.mapleader = ","
+vim.g.maplocalleader = "  "
 
 -- LazyVim auto format
 vim.g.autoformat = true
